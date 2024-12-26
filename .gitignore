@@ -1,0 +1,4 @@
+mongodata/
+!mycode/
+.vs/
+node_modules/
